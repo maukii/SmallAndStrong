@@ -20,6 +20,21 @@ TextureImporter:
   - first:
       213: -4934300846498049358
     second: CH_Playable_01_5
+  - first:
+      213: -3064762411628855269
+    second: CH_Playable_01_6
+  - first:
+      213: 3590141213066545044
+    second: CH_Playable_01_7
+  - first:
+      213: -4962280891995113917
+    second: CH_Playable_01_8
+  - first:
+      213: 4089006836102710233
+    second: CH_Playable_01_9
+  - first:
+      213: 3979726089191617217
+    second: CH_Playable_01_10
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -142,7 +157,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7c283ef36545b654e93cd583340bb6e1
+      spriteID: c599ef7cb324f374da9ebaa7eea6a6b0
       internalID: 1972209768550606675
       vertices: []
       indices: 
@@ -163,7 +178,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1f4281c32a91dd849bef39545d0517c7
+      spriteID: 3fa537a76e1d8554e8c81c48ef51c81d
       internalID: -677313986505707372
       vertices: []
       indices: 
@@ -184,7 +199,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6ec7def3d879c1b4a9995ba347dd3d31
+      spriteID: a12bc313e87e8d843a6f993362d9c4e8
       internalID: 8406704316115273969
       vertices: []
       indices: 
@@ -194,8 +209,8 @@ TextureImporter:
       name: CH_Playable_01_3
       rect:
         serializedVersion: 2
-        x: 681
-        y: 291
+        x: 717
+        y: 346
         width: 296
         height: 155
       alignment: 0
@@ -205,7 +220,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0658bc43800d2054698c225b2c47176d
+      spriteID: 954fa9ff703da404193d497b2eadd8e7
       internalID: 1040796990295194441
       vertices: []
       indices: 
@@ -226,7 +241,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6e02905f0742f424284eda04fbf8ed1e
+      spriteID: e65747272fd5f264cbefae8b4fab8fa1
       internalID: -3749603250638989648
       vertices: []
       indices: 
@@ -236,9 +251,9 @@ TextureImporter:
       name: CH_Playable_01_5
       rect:
         serializedVersion: 2
-        x: 457
-        y: 191
-        width: 213
+        x: 499
+        y: 256
+        width: 214
         height: 114
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -247,8 +262,113 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fb6a95e8b66f4234c9a8e75b11641f9e
+      spriteID: 6a9e61b6a37d7314692db403bc74bd68
       internalID: -4934300846498049358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Playable_01_6
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 85
+        width: 174
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198f7c0e6c360b44b9fd88823dc4b861
+      internalID: -3064762411628855269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Playable_01_7
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 85
+        width: 55
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bfb03d2e9b2b01499d6ea9c0fa5f737
+      internalID: 3590141213066545044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Playable_01_8
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 0
+        width: 192
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139883be7ed1a2a4bb956cd0ae2c5b0a
+      internalID: -4962280891995113917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Playable_01_9
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1
+        width: 206
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea8ce6766530f54caa68d07d01e82d3
+      internalID: 4089006836102710233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Playable_01_10
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 3
+        width: 434
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75135be08853e9c4fb587ebe2b775433
+      internalID: 3979726089191617217
       vertices: []
       indices: 
       edges: []
